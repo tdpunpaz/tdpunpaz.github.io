@@ -1,0 +1,10 @@
+descripcion: |
+  Comenzamos a trabajar con pepita nuestra ave que nos acomañará varias clases y nos eseñará varios conceptos.
+
+  Arrancamos con la primera etapa de pepita:
+    * Carpeta /doc/enunciado1.md
+
+ejercicios:
+  - name: pepita (Etapa 1)
+    repo: tdpunpaz/multipepita-master
+    classroom: https://classroom.github.com/a/hY2Q7EnL
