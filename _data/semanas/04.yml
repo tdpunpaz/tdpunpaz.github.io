@@ -1,0 +1,16 @@
+descripcion: |
+  Vamos a trabajar con 2 ejercicios para poner en práctica todo lo que aprendimos hasta le momento.
+
+  Estos ejercicios nos permitirán entender uno de los principales conceptos de la programación orientada o objetos, **el polimorfismo**.
+
+  Nada más para decir, es hora de codear la solución.
+   
+
+ejercicios:
+  - name: Empanadas Giménez
+    repo: tdpunpaz/empanadasGimenez-master
+    classroom: https://classroom.github.com/a/pSdpHP51
+
+  - name: Viajes en Auto
+    repo: tdpunpaz/viajesEnAuto
+    classroom: https://classroom.github.com/a/iyEct814
