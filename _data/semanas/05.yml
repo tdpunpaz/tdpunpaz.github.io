@@ -1,0 +1,14 @@
+descripcion: |
+  Vamos a trabajar con un nuevo ejercicio que nos permite trabaja las Referencias entre Objetos.
+
+  También seguimos viendo expresiones booleanas, polimorfismo, metodos vacios, self y otras cosas más.
+
+  Nada más para decir, es hora de codear la solución.
+   
+
+ejercicios:
+  - name: SPA
+    repo: tdpunpaz/spa-master
+    classroom: https://classroom.github.com/a/GlYEWu0S
+
+ 
