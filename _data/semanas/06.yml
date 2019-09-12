@@ -1,0 +1,21 @@
+descripcion: |
+  Deberán realizar la entrega del último ejercicio de práctica que cierra la primera etapa de la cursada.
+
+  Arrancamos con tema nuevo. Collecciones. Vamos a usar el ejercicio de Golosinas para comenzar a trabajar con colecciones. 
+
+  Nada más para decir, es hora de aprender y practicar.
+   
+
+entrega:
+  fecha: 2019-09-19T17:59
+  ejercicios:
+    - name: Gustos
+      repo: tdpunpaz/objetosGustos-master
+      classroom: https://classroom.github.com/a/Hq2YVFJc
+
+ 
+
+ejercicios:
+  - name: Golosinas
+    repo: tdpunpaz/golosinas-master
+    classroom: https://classroom.github.com/a/hkZssKZp
