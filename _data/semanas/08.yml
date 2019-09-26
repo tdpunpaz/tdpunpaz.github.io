@@ -1,0 +1,11 @@
+descripcion: |
+  Más práctica sobre colecciones.
+
+  Les recomemdamos tener el apunto cerca de la mano que les ayudará a resolver el ejercicion
+
+  Nada más para decir, es hora de aprender y practicar.
+   
+ejercicios:
+  - name: La Casa de Pepe y Julián
+    repo: tdpunpaz/casaDePepeYJulian-2019s2-master
+    classroom: https://classroom.github.com/a/v-aP5kWH
