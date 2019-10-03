@@ -1,0 +1,13 @@
+descripcion: |
+  Arracamos a trabajar con Clases y con la parte más entretenida, Game.
+
+  Para enterner de que hablamos cuando hablamos de Clases vamos a practicar con el ejercicio de Flota de Rodados.
+
+  Les dejo un link a la [documentación de Wollok](https://www.wollok.org/documentacion/conceptos/) donde van a poder ampliar mas sobre el lenguaje y en particular lo van a tener que consutlar seguido cuando trabajemos con Game,
+  
+  Nada más para decir, es hora de aprender y practicar.
+   
+ejercicios:
+  - name: Flota de Rodados
+    repo: tdpunpaz/flotasDeRodados-master
+    classroom: https://classroom.github.com/a/KHI-zqFy

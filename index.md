@@ -11,7 +11,7 @@ Si es la primera vez que entrás acá, te recomendamos que leas el [contrato ped
 ## Días y horarios de cursada
 
 **Turno noche:**
-* Miercoles de 18:00 a 22:00.
+* Jueves de 18:00 a 22:00.
 * Profesor, Gerardo Gonzalez Tulian.
 
 ## Canales de comunicación
