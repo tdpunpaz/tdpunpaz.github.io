@@ -1,0 +1,13 @@
+descripcion: |
+  Arrancamos con Wollok Game, para armar nuestro primer game.
+
+  Este es un ejemplo simple para comenzar con Game. Para ejecutarlo deben pararse sobre el archivo game.wpgm, botón derecho del mouse, seleccionar ejecutar como, 1 Wollok Program.
+
+  Les dejo un link a la [documentación de Wollok](https://www.wollok.org/documentacion/conceptos/) donde van a poder ampliar mas sobre el lenguaje y en particular lo van a tener que consutlar seguido cuando trabajemos con Game,
+  
+  Nada más para decir, es hora de aprender y practicar.
+   
+ejercicios:
+  - name: Granjavilla
+    repo: tdpunpaz/granjavilla-master
+    classroom: https://classroom.github.com/a/Sf5Trhgs
