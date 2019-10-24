@@ -1,0 +1,13 @@
+descripcion: |
+  Seguimos con Wollok Game, para terminar nuestro primer juego
+
+  Este es un ejemplo simple para continuar aprendiedo con Game. 
+
+  Les dejo un link a la [documentación de Wollok](https://www.wollok.org/documentacion/conceptos/) donde van a poder ampliar mas sobre el lenguaje y en particular lo van a tener que consutlar seguido cuando trabajemos con Game,
+  
+  Nada más para decir, es hora de aprender y practicar.
+   
+ejercicios:
+  - name: Hector Game
+    repo: tdpunpaz/Hector_Game
+    classroom: https://classroom.github.com/a/2Fdgy0y5
