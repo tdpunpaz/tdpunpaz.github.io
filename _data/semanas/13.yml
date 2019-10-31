@@ -1,0 +1,15 @@
+descripcion: |
+  LLego el momento de evaluar todo lo que aprendimos durante esta cursada.
+
+  El parcial es individual y tiene tiempo hasta las 22:30 del 31/10/2019 para subir la solución al repositorio.  
+
+  Si o si deben cumplir con el horario, las entregas posteriores a ese horario no serán consideradas.
+  
+  Un consejo es que ni bien se descargen el ejercicio (deben entrar por la opción **GitHub Classroom**), hagan una minima modificación y prueben subirlo, así ya se quedan tranquilos que el push les va a funcionar bien. Otro consejo es que vayan haciendo commit y push a medida que van resolviendo todos los puntos.
+
+  Mucha, mucha suerte a todes!!!!
+   
+ejercicios:
+  - name: Parcial - Camiones de transporte
+    repo: tdpunpaz/coleccionesCamionTransporte-master
+    classroom: https://classroom.github.com/a/cT-HmbzR
