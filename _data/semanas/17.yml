@@ -1,0 +1,11 @@
+descripcion: |
+  Examen Integrador
+
+  El examen es individual y tiene tiempo hasta las 21:00 del 05/12/2019 para subir la solución al repositorio.  
+
+  Luego de finalizar, deben subir los cambios y notificarme por mail que subieron los cambios.
+   
+ejercicios:
+  - name: Integrador - Gustos
+    repo: tdpunpaz/objetosGustos-master
+    classroom: https://classroom.github.com/a/ULrvBMbD
